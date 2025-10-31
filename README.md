@@ -47,7 +47,7 @@
 ###
 
 
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=SrDerik.SrDerik&left_color=goldenrod&right_color=black"  />
+<img src="https://visitor-badge.laobi.icu/badge?page_id=SrDerik.SrDerik&left_color=goldenrod&right_color=black"  />
 
 
 
