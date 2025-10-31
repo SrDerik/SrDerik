@@ -1,7 +1,14 @@
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-%23c99443?style=for-the-badge&logo=linux&logoColor=000000)
+![HTML5](https://img.shields.io/badge/HTML5-%23c99443?style=for-the-badge&logo=html5&logoColor=000000)
+![CSS3](https://img.shields.io/badge/CSS3-%23c99443?style=for-the-badge&logo=css3&logoColor=000000)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23c99443?style=for-the-badge&logo=javascript&logoColor=000000)
+![Java](https://img.shields.io/badge/Java-%23c99443?style=for-the-badge&logo=openjdk&logoColor=000000)
+![VSCode](https://img.shields.io/badge/VSCode-%23c99443?style=for-the-badge&logo=visualstudiocode&logoColor=000000)
+![NetBeans](https://img.shields.io/badge/NetBeans-%23c99443?style=for-the-badge&logo=apachenetbeanside&logoColor=000000)
+![Eclipse](https://img.shields.io/badge/Eclipse-%23c99443?style=for-the-badge&logo=eclipseide&logoColor=000000)
+![Figma](https://img.shields.io/badge/Figma-%23c99443?style=for-the-badge&logo=figma&logoColor=000000)
+
 
 ##
 
