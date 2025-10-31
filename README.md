@@ -1,11 +1,11 @@
 ###
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=gruvbox_light"  />
-</div>
-<img width=100% bottom=50px src="https://i.imgur.com/ugoJP2d.jpeg"/>
-
 <div align="center">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=gruvbox_light"  />
+
+<img width=100% bottom=50px src="https://i.imgur.com/EvfWZGm.jpeg"/>
+
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Momo+Trust+Display&pause=1000&color=C99443&center=true&vCenter=true&width=435&lines=Hello!+Welcome+to+my+GitHub;I'm+Derik+Soares+Batinga+%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F;I'm+a+student+from+Etec+da+Zona+Leste!%F0%9F%93%92)](https://git.io/typing-svg)
 
@@ -55,14 +55,13 @@
 
 
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=SrDerik.SrDerik&left_color=goldenrod&right_color=black"  />
-</div>
+
 
 
 
 
 ###
 
-<div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=gruvbox_light"  />
 </div>
 
