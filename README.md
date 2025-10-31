@@ -1,5 +1,8 @@
 
-amo.githubusercontent.com/b9b00391b64fe8f27d80d4696fc48cb19635c4dfab9f66aee7001b533219dda3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c352d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
 ##
 
 <div align="center">
