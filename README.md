@@ -1,3 +1,8 @@
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=gruvbox_light"  />
+</div>
 <img width=100% bottom=50px src="https://i.imgur.com/ugoJP2d.jpeg"/>
 
 <div align="center">
@@ -37,11 +42,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=SrDerik&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox_light&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SrDerik&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox_light&hide_border=false&order=2" height="153" alt="languages graph"  />
-</div>
-
-
-
-##
 
 
 ###
@@ -51,5 +51,19 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SrDerik/SrDerik/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/SrDerik/SrDerik/output/pacman-contribution-graph.svg">
 </picture>
+
+
+
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=SrDerik.SrDerik&left_color=goldenrod&right_color=black"  />
+</div>
+
+
+
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=gruvbox_light"  />
+</div>
 
 ###
