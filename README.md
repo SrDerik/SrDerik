@@ -1,9 +1,21 @@
 <div align="center">
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Momo+Trust+Display&pause=1000&color=C99443&center=true&vCenter=true&width=435&lines=Hello!+Welcome+to+my+GitHub;I'm+Derik+Soares+Batinga+%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F;I'm+a+student+from+Etec+da+Zona+Leste!%F0%9F%93%92)](https://git.io/typing-svg)
 
 
 ###
+<h2>Social Medias</h2>
 
+ <a href="https://www.linkedin.com/in/derik-batinga-6b9a42367/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://discord.gg/uHPwsyMzSH" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
+  </a>
+  <a href="https://t.me/+bLAiE4SqByszMmZh" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="telegram logo"  />
+  </a>
+  
 <h2>LEARNING</h2>
 <img src="https://streak-stats.demolab.com?user=SrDerik&locale=en&mode=daily&theme=gruvbox_light&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 
@@ -29,9 +41,6 @@
 
 ##
 
-<div align="center">
-  
-</div>
 
 ###
 
