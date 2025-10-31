@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Momo+Trust+Display&pause=1000&color=C99443&center=true&vCenter=true&width=435&lines=Hello!+Welcome+to+my+GitHub+%3A);I'm+Derik+Soares+Batinga+%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F;I'm+a+student+from+Etec+da+Zona+Leste!%F0%9F%93%92)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Momo+Trust+Display&pause=1000&color=C99443&center=true&vCenter=true&width=435&lines=Hello!+Welcome+to+my+GitHub;I'm+Derik+Soares+Batinga+%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F;I'm+a+student+from+Etec+da+Zona+Leste!%F0%9F%93%92)](https://git.io/typing-svg)
 
 
 ###
