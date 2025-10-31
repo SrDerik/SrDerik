@@ -5,12 +5,14 @@
 <div align="center">
 <h2>LEARNING</h2>
 <img src="https://streak-stats.demolab.com?user=SrDerik&locale=en&mode=daily&theme=gruvbox_light&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  
 ![HTML5](https://img.shields.io/badge/HTML5-%23c99443?style=for-the-badge&logo=html5&logoColor=000000)
 ![CSS3](https://img.shields.io/badge/CSS3-%23c99443?style=for-the-badge&logo=css3&logoColor=000000)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23c99443?style=for-the-badge&logo=javascript&logoColor=000000)
 ![Java](https://img.shields.io/badge/Java-%23c99443?style=for-the-badge&logo=openjdk&logoColor=000000)
 ###
 <h2 align="center">IDE's</h2>
+
 ![VSCode](https://img.shields.io/badge/VSCode-%23c99443?style=for-the-badge&logo=visualstudiocode&logoColor=000000)
 ![NetBeans](https://img.shields.io/badge/NetBeans-%23c99443?style=for-the-badge&logo=apachenetbeanside&logoColor=000000)
 ![Eclipse](https://img.shields.io/badge/Eclipse-%23c99443?style=for-the-badge&logo=eclipseide&logoColor=000000)
