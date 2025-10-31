@@ -46,13 +46,8 @@
 
 ###
 
-![Pacman contribution graph](https://raw.githubusercontent.com/SrDerik/SrDerik/output/pacman-contribution-graph.gif)
-
-
 
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=SrDerik.SrDerik&left_color=goldenrod&right_color=black"  />
-
-
 
 
 
