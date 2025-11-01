@@ -22,6 +22,9 @@
   <a href="https://t.me/+bLAiE4SqByszMmZh" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="telegram logo"  />
   </a>
+    <a href="contactderik.haunt375@passinbox.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
+  </a>
   
 <h2>LEARNING</h2>
 <img src="https://streak-stats.demolab.com?user=SrDerik&locale=en&mode=daily&theme=gruvbox_light&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
@@ -37,7 +40,11 @@
 ![VSCode](https://img.shields.io/badge/VSCode-%23c99443?style=for-the-badge&logo=visualstudiocode&logoColor=000000)
 ![NetBeans](https://img.shields.io/badge/NetBeans-%23c99443?style=for-the-badge&logo=apachenetbeanside&logoColor=000000)
 ![Eclipse](https://img.shields.io/badge/Eclipse-%23c99443?style=for-the-badge&logo=eclipseide&logoColor=000000)
+
+<h2 align="center">DESIGN</h2>
+
 ![Figma](https://img.shields.io/badge/Figma-%23c99443?style=for-the-badge&logo=figma&logoColor=000000)
+
 <h2 align="center">STATUS</h2>
 
 <img src="https://github-readme-stats.vercel.app/api?username=SrDerik&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox_light&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
