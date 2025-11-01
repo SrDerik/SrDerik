@@ -13,7 +13,7 @@
 ###
 <h2>Social Medias</h2>
 
- <a href="https://www.linkedin.com/in/derik-batinga-6b9a42367/" target="_blank">
+ <a href="https://www.linkedin.com/in/derikbatinga" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://discord.gg/uHPwsyMzSH" target="_blank">
@@ -22,8 +22,8 @@
   <a href="https://t.me/+bLAiE4SqByszMmZh" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="telegram logo"  />
   </a>
-    <a href="contactderik.haunt375@passinbox.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
+  <a href="https://mail.google.com/mail/u/0/#sent?compose=CllgCHrhVDPRBzLpGsCPdDkRdRvnHNQflfjzWpKnGhhBXTKKfzrvLgbSKcspQnqCkXDtnTmBxtL" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
   </a>
   
 <h2>LEARNING</h2>
