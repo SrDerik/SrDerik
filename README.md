@@ -7,8 +7,7 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Special+Gothic+Expanded+One&pause=1000&color=F7F68C&width=435&lines=Welcome+to+my+GitHub!;I'm+Derik+Soares+Batinga%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F;I'm+a+student+from+Etec+da+Zona+Leste!%F0%9F%93%92)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Momo+Trust+Display&pause=1000&color=C99443&center=true&vCenter=true&width=435&lines=Hello!+Welcome+to+my+GitHub;I'm+Derik+Soares+Batinga+%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F;I'm+a+student+from+Etec+da+Zona+Leste!%F0%9F%93%92)](https://git.io/typing-svg)
 
 ###
 <h2>Social Medias</h2>
@@ -27,7 +26,10 @@
   </a>
   
 <h2>LEARNING</h2>
-<img src="https://streak-stats.demolab.com?user=SrDerik&locale=en&mode=daily&theme=gruvbox_light&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=SrDerik&locale=en&mode=daily&theme=gruvbox_light&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
 
 ![Linux](https://img.shields.io/badge/Linux-%23c99443?style=for-the-badge&logo=linux&logoColor=000000)  
 ![HTML5](https://img.shields.io/badge/HTML5-%23c99443?style=for-the-badge&logo=html5&logoColor=000000)
