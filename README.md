@@ -12,22 +12,52 @@
 ###
 <h2>Social Medias</h2>
 
- <a href="https://www.linkedin.com/in/derikbatinga" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
+ <a 
+   href="https://www.linkedin.com/in/derikbatinga" 
+   target="_blank"
+    >
+    <img 
+      src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge"
+      height="40"
+      alt="linkedin logo" 
+    />
   </a>
-  <a href="https://discord.gg/uHPwsyMzSH" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
+  <a
+    href="https://discord.gg/uHPwsyMzSH"
+    target="_blank"
+    >
+    <img
+      src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" 
+      height="40"
+      alt="discord logo"
+    />
   </a>
-  <a href="https://t.me/+bLAiE4SqByszMmZh" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="telegram logo"  />
+  <a
+    href="https://t.me/+bLAiE4SqByszMmZh"
+    target="_blank"
+    >
+    <img 
+      src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge"
+      height="40"
+      alt="telegram logo" 
+    />
   </a>
-  <a href="https://mail.google.com/mail/u/0/#sent?compose=CllgCHrhVDPRBzLpGsCPdDkRdRvnHNQflfjzWpKnGhhBXTKKfzrvLgbSKcspQnqCkXDtnTmBxtL" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
+  <a href="mailto:derik@email.com" 
+    target="_blank">
+    <img 
+      src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge"
+      height="40" 
+      alt="gmail logo"  
+    />
   </a>
   
 <h2>LEARNING</h2>
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=SrDerik&locale=en&mode=daily&theme=gruvbox_light&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img
+    src="https://profile-readme-generator-tau.vercel.app/api/streak?user=SrDerik&locale=en&mode=daily&theme=gruvbox_light&hide_border=false&border_radius=5"
+    height="150"
+    alt="GitHub streak"
+  />
 </div>
 
 
@@ -48,14 +78,25 @@
 ![Figma](https://img.shields.io/badge/Figma-%23c99443?style=for-the-badge&logo=figma&logoColor=000000)
 
 <h2 align="center">STATUS</h2>
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SrDErik&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox_light&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SrDErik&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox_light&hide_border=false&order=2" height="150" alt="languages graph"  />
+<img 
+  src="http://profile-readme-generator-tau.vercel.app/api?username=SrDErik&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox_light&locale=en&hide_border=false&order=1" 
+  height="150" 
+  alt="stats graph"
+/>
+  
+  <img
+    src="http://profile-readme-generator-tau.vercel.app/api/top-langs?username=SrDErik&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox_light&hide_border=false&order=2" 
+    height="150" 
+    alt="languages graph" 
+  />
 </div>
-###
 
 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=SrDerik.SrDerik&left_color=goldenrod&right_color=black"  />
+<img 
+  src="https://visitor-badge.laobi.icu/badge?page_id=SrDerik.SrDerik&left_color=goldenrod&right_color=black" 
+/>
 
 
 
