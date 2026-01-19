@@ -54,7 +54,7 @@
 <h2>LEARNING</h2>
 <div align="center">
   <img
-    src="https://profile-readme-generator-tau.vercel.app/api/streak?user=SrDerik&locale=en&mode=daily&theme=gruvbox_light&hide_border=false&border_radius=5"
+    src="https://streak-stats.demolab.com?user=SrDerik&theme=gruvbox_light"
     height="150"
     alt="GitHub streak"
   />
