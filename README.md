@@ -80,7 +80,6 @@
 <h2 align="center">STATUS</h2>
 
 <div align="center">
-\<div align="center">
   <img
     src="https://profile-readme-generator-tau.vercel.app/api?username=SrDerik&show_icons=true&include_all_commits=true&count_private=true&theme=gruvbox_light"
     height="150"
@@ -92,7 +91,6 @@
     height="150"
     alt="Top languages"
   />
-</div>
 </div>
 
 
