@@ -50,14 +50,13 @@
       alt="gmail logo"  
     />
   </a>
-  
+
 <h2>LEARNING</h2>
 <div align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=SrDerik&theme=gruvbox_light"
+  <img 
+    src="https://streak-stats.demolab.com?user=SrDerik&locale=en&mode=daily&theme=gruvbox_light&hide_border=false&border_radius=5&order=3" 
     height="150"
-    alt="GitHub streak"
-  />
+    alt="streak graph"  />
 </div>
 
 
@@ -80,17 +79,8 @@
 <h2 align="center">STATUS</h2>
 
 <div align="center">
-  <img
-    src="https://profile-readme-generator-tau.vercel.app/api?username=SrDerik&show_icons=true&include_all_commits=true&count_private=true&theme=gruvbox_light"
-    height="150"
-    alt="GitHub stats"
-  />
-
-  <img
-    src="https://profile-readme-generator-tau.vercel.app/api/top-langs?username=SrDerik&layout=compact&langs_count=5&theme=gruvbox_light"
-    height="150"
-    alt="Top languages"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=SrDerik&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox_light&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SrDerik&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox_light&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 
