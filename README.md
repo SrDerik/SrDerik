@@ -52,7 +52,7 @@
 <h2>LEARNING</h2>
 <div align="center">
     <img
-    src="https://streak-stats.demolab.com?user=SrDerik&theme=gruvbox_light"
+    src="https://github-readme-streak-stats-cl34.vercel.app/?user=SrDerik&theme=gruvbox_light"
     height="150"
     alt="GitHub streak"
   />
