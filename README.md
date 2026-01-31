@@ -84,7 +84,7 @@
     alt="GitHub stats"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=SrDerik&layout=compact&langs_count=6&hide_border=false&theme=gruvbox_light"
+    src="https://github-readme-stats-x6cf.vercel.app/api/top-langs?username=SrDerik&layout=compact&langs_count=6&hide_border=false&theme=gruvbox_light"
     height="150"
     alt="Top languages"
   />
