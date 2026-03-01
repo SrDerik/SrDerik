@@ -52,7 +52,7 @@
 <h2>LEARNING</h2>
 <div align="center">
     <img
-    src="https://streak-stats.demolab.com?user=SrDerik&theme=gruvbox_light"
+    src="https://streak-stats.demolab.com?user=DerikBatinga&theme=gruvbox_light"
     height="150"
     alt="GitHub streak"
   />
@@ -92,7 +92,7 @@
 
 
 <img 
-  src="https://visitor-badge.laobi.icu/badge?page_id=SrDerik.SrDerik&left_color=goldenrod&right_color=black" 
+  src="https://visitor-badge.laobi.icu/badge?page_id=DerikBatinga.DerikBatinga&left_color=goldenrod&right_color=black" 
 />
 
 
